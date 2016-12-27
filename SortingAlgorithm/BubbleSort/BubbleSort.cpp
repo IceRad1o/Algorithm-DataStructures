@@ -28,6 +28,8 @@ void BubbleSort::bubblesort() {
 	}
 }
 
+//可以去尝试定向冒泡排序；在一定程度上能够提高冒泡排序的效率
+
 void BubbleSort::DisplayElements(int low, int high) const
 {
 	for (int i = low;i < high;i++)

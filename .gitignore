@@ -8,3 +8,4 @@ SortingAlgorithm/*/*.filters
 SortingAlgorithm/*/Debug
 !SortingAlgorithm/*/*.h
 !SortingAlgorithm/*/*.cpp
+SortingAlgorithm/*.vs
