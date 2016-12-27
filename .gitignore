@@ -1,0 +1,10 @@
+#myconfiguration
+SortingAlgorithm/Debug
+SortingAlgorithm/*.sln
+SortingAlgorithm/*.db
+SortingAlgorithm/*.opendb
+SortingAlgorithm/*/*.vcxproj
+SortingAlgorithm/*/*.filters
+SortingAlgorithm/*/Debug
+!SortingAlgorithm/*/*.h
+!SortingAlgorithm/*/*.cpp
