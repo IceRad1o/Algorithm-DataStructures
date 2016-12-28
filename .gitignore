@@ -3,9 +3,12 @@ SortingAlgorithm/Debug
 SortingAlgorithm/*.sln
 SortingAlgorithm/*.db
 SortingAlgorithm/*.opendb
+SortingAlgorithm/*/Debug
+SortingAlgorithm/*.vs
+
+#sub
 SortingAlgorithm/*/*.vcxproj
 SortingAlgorithm/*/*.filters
-SortingAlgorithm/*/Debug
 !SortingAlgorithm/*/*.h
 !SortingAlgorithm/*/*.cpp
-SortingAlgorithm/*.vs
+!SortingAlgorithm/*/*.md

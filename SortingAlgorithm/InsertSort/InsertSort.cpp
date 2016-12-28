@@ -28,7 +28,31 @@ void InsertSort::insertsort() {
 				x = arr[j];
 				arr[j] = arr[j - 1];
 				arr[j - 1] = x;
+				/*这是插入时调换元素大小，但是每次不匹配都要进行两次交换
+				我们可以通过设置哨兵，来减少交换次数,把要插入的值设成哨兵即可,也就是插入的元素只要插入一次,
+				而原数组每次给后一位赋值，直到找到合适的插入位置
+				*/
 			}
+		}
+		DisplayElements(0, size);
+	}
+}
+void InsertSort::insertsort2() {
+	//设置哨兵的插入排序
+	DisplayElements(0, size);
+	for (int i = 1;i < size;i++)
+	{
+		if (arr[i] < arr[i - 1])
+		{
+			int x = arr[i];//设置哨兵
+			arr[i] = arr[i - 1];//把前面一个数组的最后一个后移(因为前面肯定要插入一个)
+			int j = i - 1;
+			while (x < arr[j])
+			{
+				arr[j + 1] = arr[j];
+				j--;
+			}
+			arr[j + 1] = x;
 		}
 		DisplayElements(0, size);
 	}
