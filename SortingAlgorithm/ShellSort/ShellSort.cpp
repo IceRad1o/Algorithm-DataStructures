@@ -35,7 +35,7 @@ void ShellSort::shellsort()
 				}
 				data[j + incr] = index;
 			}
-			//DisplayElements(0, size);
+			//对元素插入排序
 		}
 		DisplayElements(0, size);
 		incr = incr / 3 + 1;//增量逐渐减少
