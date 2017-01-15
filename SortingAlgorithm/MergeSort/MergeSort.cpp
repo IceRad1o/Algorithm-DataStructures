@@ -74,7 +74,7 @@ void MergeSort::merge(int left, int middle1, int middle2, int right)//merge two 
 			combined[combinedIndex++] = data[leftIndex++];
 	}
 	/*值得一提的是我们这里可以设置哨兵来避免涉及到哪个数组先跑完的问题
-	归并的两个数组，把数组新增最后一个数并设为无穷大即可
+	归并的两个数组，把数组新增最后一个数并设为无穷大INT_MAX即可
 	(因为未跑完的数组和无穷大比较肯定先放入最后的结果数组)
 	
 	*/
