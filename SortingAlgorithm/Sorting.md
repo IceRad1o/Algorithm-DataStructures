@@ -31,7 +31,7 @@ complete bubblesort,selectionsort,insertsort,shellsort,heapsort,mergesort,quicks
 
 ​                                                                                                                                                                              2017-1-15 
 
-todo:最后补一个总体的sort.h用template 实现(quicksort和heapsort已经实现)
+todo:use a template to include all algorithms (quicksort and heapsort completed)
 
 
 

@@ -6,9 +6,18 @@ SortingAlgorithm/*.opendb
 SortingAlgorithm/*/Debug
 SortingAlgorithm/*.vs
 
-#sub
+#sortsub(sort子文件夹)
 SortingAlgorithm/*/*.vcxproj
 SortingAlgorithm/*/*.filters
 !SortingAlgorithm/*/*.h
 !SortingAlgorithm/*/*.cpp
 !SortingAlgorithm/*/*.md
+
+#Linked-list
+Linked-list/Debug
+Linked-list/*.sln
+Linked-list/*.db
+Linked-list/*.opendb
+Linked-list/*.vs
+
+
