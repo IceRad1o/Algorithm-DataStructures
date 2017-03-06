@@ -1,7 +1,17 @@
 # Algorithm-datastructures
 :smiling_imp:practice of algorithm
 #wjl's :）
-**sorting:**
+**Fundamentals**
+
+   1.[Bag](https://github.com/ra7more/Algorithm-datastructures/tree/master/Fundamentals/Bag)
+
+   2.[Stack](https://github.com/ra7more/Algorithm-datastructures/tree/master/Fundamentals/Stack)
+
+   3.[Queue](https://github.com/ra7more/Algorithm-datastructures/tree/master/Fundamentals/Queue)
+
+
+
+**Sorting**
 
 1. [BubbleSort](https://github.com/ra7more/Algorithm-datastructures/tree/master/SortingAlgorithm/BubbleSort)
 2. [SelectionSort](https://github.com/ra7more/Algorithm-datastructures/tree/master/SortingAlgorithm/SelectionSort)
@@ -11,18 +21,26 @@
 6. [ShellSort](https://github.com/ra7more/Algorithm-datastructures/tree/master/SortingAlgorithm/ShellSort)
 7. [HeapSort](https://github.com/ra7more/Algorithm-datastructures/tree/master/SortingAlgorithm/HeapSort)
 
-  todo:
+  
 
-**linked-list**
+**Strings**
 
-**heap:**
+1.KMP
+
+
+
+**LinkedList**
+
+   1.[SimpleLinkedList](https://github.com/ra7more/Algorithm-datastructures/tree/master/LinkedList/SimpleLinkedList)
+
+
+
+**Searching**
+
+   1.BinarySearchTree(BST)
+
+
 
 **Graph**
 
-1.    DFS 
-2.    BFS
-
-**Searching structure**
-
-1. B-Tree
-
+   todo:最短路径算法 ， 最小生成树算法，   图的深度优先和广度优先遍历
