@@ -31,19 +31,22 @@ Fundamentals**
 
 
 
-
-
-**LinkedList**
-
-
-
-
-
 **Searching**
 
-  
+- ST(Symbol Tables)
+- SequentialSearchST
+- BinarySearch
+- BinarySearchTree
+- AVLTreeST
+- Red-Black TreeBST
+- BTree
+- TrieST
 
 
 
 **Graph**
+
+- [undirected-graph](https://github.com/ra7more/Algorithm-datastructures/Graphs/undirected graph)
+- [DFS](https://github.com/ra7more/Algorithm-datastructures/tree/master/Graphs/Depth-first search(DFS))
+- [BFS](https://github.com/ra7more/Algorithm-datastructures/tree/master/Graphs/Breadth-first search(BFS))
 
