@@ -1,7 +1,11 @@
 # Algorithm-datastructures
 :smiling_imp:practice of algorithm
 #wjl's :）
-**Fundamentals**
+**Reference---http://algs4.cs.princeton.edu/home/**
+
+很多的代码实现都参考princetion.Algorithm.(Java版本)
+
+Fundamentals**
 
    1.[Bag](https://github.com/ra7more/Algorithm-datastructures/tree/master/Fundamentals/Bag)
 
@@ -21,26 +25,25 @@
 6. [ShellSort](https://github.com/ra7more/Algorithm-datastructures/tree/master/SortingAlgorithm/ShellSort)
 7. [HeapSort](https://github.com/ra7more/Algorithm-datastructures/tree/master/SortingAlgorithm/HeapSort)
 
-  
+
 
 **Strings**
 
-1.KMP
+
 
 
 
 **LinkedList**
 
-   1.[SimpleLinkedList](https://github.com/ra7more/Algorithm-datastructures/tree/master/LinkedList/SimpleLinkedList)
+
 
 
 
 **Searching**
 
-   1.BinarySearchTree(BST)
+  
 
 
 
 **Graph**
 
-   todo:最短路径算法 ， 最小生成树算法，   图的深度优先和广度优先遍历
