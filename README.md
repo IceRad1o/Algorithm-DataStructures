@@ -5,7 +5,7 @@
 
 很多的代码实现都参考princetion.Algorithm.(Java版本)
 
-Fundamentals**
+**Fundamentals**
 
    1.[Bag](https://github.com/ra7more/Algorithm-datastructures/tree/master/Fundamentals/Bag)
 
@@ -46,7 +46,7 @@ Fundamentals**
 
 **Graph**
 
-- [undirected-graph](https://github.com/ra7more/Algorithm-datastructures/Graphs/undirected graph)
-- [DFS](https://github.com/ra7more/Algorithm-datastructures/tree/master/Graphs/Depth-first search(DFS))
-- [BFS](https://github.com/ra7more/Algorithm-datastructures/tree/master/Graphs/Breadth-first search(BFS))
+- [undirected-graph](https://github.com/ra7more/Algorithm-datastructures/Graphs/undirected-graph)
+- [DFS](https://github.com/ra7more/Algorithm-datastructures/tree/master/Graphs/Depth-first-search(DFS))
+- [BFS](https://github.com/ra7more/Algorithm-datastructures/tree/master/Graphs/Breadth-first-search(BFS))
 
